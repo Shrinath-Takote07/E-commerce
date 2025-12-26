@@ -7,6 +7,10 @@
   font-weight: <weight>;
   font-style: normal;
 } */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 
 .montserrat {
   font-family: "Montserrat", sans-serif;
